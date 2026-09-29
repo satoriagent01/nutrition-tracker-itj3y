@@ -1,0 +1,11 @@
+{
+  "name": "nutrition-tracker",
+  "version": "1.0.0",
+  "description": "Free, ad-free nutrition tracker that lets users take photos of product nutrition labels and track custom nutrition goals",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": ["nutrition", "tracker", "health"],
+  "license": "MIT"
+}
